@@ -1,0 +1,26 @@
+
+ Month	 : March
+ ID		 : 3.1
+ Account-no:29409431
+ Meter-no:23734
+
+ Renter-name:Jim
+
+ For Electric Bill.........
+--------------------------------
+
+ Current date	: 9.2.13
+ Previous date	: 11.1.13
+
+ Current unit	: 19047.00 
+ Previous unit	: 18954.00
+ Uses unit		: 93.00
+ Total Bill: 
+ ..........................
+
+ Home Rent		: 7500.00
+ Gas Bill		: 450.00
+ Water Bill		: 300.00
+ Electric Bill	: 394.00
+
+ Total amount	: 8644.00

@@ -1,0 +1,32 @@
+
+ Month	 : feb
+ ID	: 5.0
+ Account-no:29409441
+ Meter-no:70306022925
+
+ Renter-name:Anita
+
+ For Electric Bill.........
+--------------------------------
+
+ Current date	: 13
+ Previous date	: 12
+
+ Current unit	: 22.00 
+ Previous unit	: 20.00
+ Uses unit		: 2.00
+
+ Total Bill: 
+ ..........................
+
+ Home Rent	: 14000.00
+ Gas Bill		: 450.00
+ Water Bill		: 300.00
+ Electric Bill	: 200.00
+
+ Total amount	: 14950.00
+
+
+
+-----------------------------------------------
+ Signature of Home Owner

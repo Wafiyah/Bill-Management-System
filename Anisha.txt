@@ -1,0 +1,36 @@
+
+ Month	: feb
+
+ ID	: 1.2
+Account-no:29409451
+Meter-no:70306022927
+
+ Renter-name:Anisha
+
+ For Electric Bill.........
+--------------------------------
+
+ Current date	: 200 
+ Previous date	: 20.10.2011 
+
+ Current unit	: 400.000000 
+ Previous unit	: 500.000000 
+ Uses unit		: 100.00
+ Per unit charge	: 2.560000
+
+ Total Bill: 
+ ..........................
+
+ Home Rent	: 7000.00
+ Gas Bill		: 450.00
+ Water Bill		: 300.00
+ Electric Bill	: 256.00
+
+ Total amount	: 8006.00
+
+
+
+
+
+-----------------------------------------------
+   Signature of Home Owner

@@ -1,0 +1,9 @@
+1.1 Account-no:29409421 Meter-no:1111767 Renter-name:Sajarul 7000 450 300
+
+1.2 Account-no:29409451 Meter-no:70306022927 Renter-name:Anisha 7000 450 300
+
+3.1 Account-no:29409431 Meter-no:23734 Renter-name:Jim 7500 450 300
+
+3.2 Account-no:29409421 Meter-no:1111767 Renter-name:Sobuj 7500 450 300
+
+5.0 Account-no:29409441 Meter-no:70306022925 Renter-name:Anita 14000 450 300

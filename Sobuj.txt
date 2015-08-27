@@ -1,0 +1,26 @@
+
+ Month	 : March
+ ID		 : 3.2
+ Account-no:29409421
+ Meter-no:1111767
+
+ Renter-name:Sobuj
+
+ For Electric Bill.........
+--------------------------------
+
+ Current date	: 9.2.13
+ Previous date	: 11.1.13
+
+ Current unit	: 13812.00 
+ Previous unit	: 13790.00
+ Uses unit		: 22.00
+ Total Bill: 
+ ..........................
+
+ Home Rent		: 7500.00
+ Gas Bill		: 450.00
+ Water Bill		: 300.00
+ Electric Bill	: 139.00
+
+ Total amount	: 8389.00
